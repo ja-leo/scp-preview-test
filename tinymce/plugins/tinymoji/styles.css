@@ -1,0 +1,8 @@
+﻿.mce-i-tinymoji-button::after { content: "😀"; font-size: 14px; position: absolute; line-height: 100%; }
+
+.mce-container .tinymoji-body { margin: 2px;}
+.mce-container .tinymoji-body table { border-collapse: collapse; border: 0; }
+.mce-container .tinymoji-body td { text-align: center; padding: 2px; border: solid 1px transparent; }
+.mce-container .tinymoji-body td:hover { background-color: #eee; border-color: #ccc; }
+.mce-container .tinymoji-body a { font-size: 16px; display: block; text-decoration: none !important; }
+

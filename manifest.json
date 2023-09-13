@@ -1,0 +1,35 @@
+{
+  "name": "JobAdder Scales Design based on NG-ZORRO",
+  "short_name": "SCALES",
+  "theme_color": "#1971c2",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "assets/icons/JA-FAVICON-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/icons/JA-FAVICON-180x180.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/icons/JA-FAVICON-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/icons/JA-FAVICON-270x270.png",
+      "sizes": "270x270",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
